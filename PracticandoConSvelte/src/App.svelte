@@ -13,7 +13,8 @@
       <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
     </a>
   </div>
-  <h1>Vite + Svelte</h1>
+  <h1 style="color: purple;">Vite + Svelte</h1> <!-- Cambio de color a morado -->
+  <p style="color: purple;">Por aquí ha pasado Irina Ichim</p> <!-- Agregar frase con color morado -->
 
   <div class="card">
     <Counter />
